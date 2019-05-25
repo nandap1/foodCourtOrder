@@ -1,5 +1,5 @@
 '''
-Midterm Part 1: Display DeAnza's food court menu and produce a bill with the correct orders for students and staff.
+Displaying DeAnza's food court menu and produce a bill with the correct orders for students and staff.
 '''
 #initialize variables
 food_1 = 0
